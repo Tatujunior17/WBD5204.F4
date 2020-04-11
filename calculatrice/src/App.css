@@ -1,0 +1,36 @@
+.resultat {
+  height: 60px;
+  background-color: #bbb;
+  width: 100%;
+}
+
+.resultat p {
+  font-size: 40px;
+  margin: 5px;
+
+}
+
+.calculatrice-body {
+  max-width: 400px;
+  margin: auto;
+}
+
+.button {
+  display: block;
+  background-color: #bbb;
+}
+
+.vide {
+  background-color: white;
+
+}
+
+.vide p {
+  background-color: white;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+}
